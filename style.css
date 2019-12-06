@@ -1,0 +1,43 @@
+body {
+     background-image: url("../WEBFREY-logo/vector/default.svg");
+     background-position: center;
+     background-size:  400px 400px;
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+}
+
+h1{
+    position: relative;
+    font-size: 500;
+    top: 50%;
+    left: 50%;
+    color: red;
+}
+
+h2{
+    color: red;
+}
+h2{
+    color: red;
+}
+.service {
+    position: absolute;
+    width: 930px;
+    top: 50%;
+    left: 50%;
+}
+/* .website {
+    width: 300px;
+    float:left;
+    border: 1px solid red;
+}
+.socialmedia{
+    width: 300px;
+    border: 1px solid yellow;
+    float: left;
+}
+.branding{
+    width: 300px;
+    border: 1px solid green;
+    float: left;
+} */
