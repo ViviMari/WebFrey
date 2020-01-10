@@ -1,0 +1,17 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Sansation_Bold
+font link: https://www.fontsquirrel.com/fonts/sansation
+font author: Bernd Montag
+font author site: mailto:berndmontag@gmx.de
+Slogan Font: LindenHill-webfont.ttf
+
+icon designer: iconsmind.com
+icon designer link: /imicons
+        
+{"bg":"transparent","font":"#000000","icon-gradient-0":"#3616AC","icon-gradient-1":"#E09BED","slogan":"#141414"}
+
+
+buttons #6d0082
+      
