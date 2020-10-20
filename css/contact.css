@@ -1,0 +1,13 @@
+
+.custom-form-bg {
+	background-color: #DB95ED !important;
+	color: white !important;
+}
+
+.custom-form-bg :: placeholder{
+	color: white !important;
+}
+
+.custom-form-bg : focus{
+	color: white;
+}
